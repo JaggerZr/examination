@@ -1,0 +1,63 @@
+/home/zhangrui/anaconda3/envs/rag_benchmark/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+/home/zhangrui/anaconda3/envs/rag_benchmark/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+LLM is explicitly disabled. Using MockLLM.
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+/home/zhangrui/anaconda3/envs/rag_benchmark/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+/home/zhangrui/anaconda3/envs/rag_benchmark/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+ * Debugger is active!
+ * Debugger PIN: 132-270-771
+127.0.0.1 - - [05/Oct/2024 18:51:41] "[33mGET /socket.io/?EIO=4&transport=polling&t=1ayo6f12 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:41] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:41] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:41] "[33mGET /api/get-alarms HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:41] "[33mGET /api/get-alarms HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:41] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:42] "[33mGET /socket.io/?EIO=4&transport=polling&t=1azderej HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:42] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:42] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:43] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:43] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:44] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:44] "[33mGET /socket.io/?EIO=4&transport=polling&t=1b17etwn HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:44] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:45] "[33mOPTIONS /api/convert-to-earth-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:45] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:45] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:46] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:51:46] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=1bjid4wn HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:08] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:08] "[33mGET /api/get-alarms HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:08] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:08] "[33mGET /api/get-alarms HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:08] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:09] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:09] "[33mGET /socket.io/?EIO=4&transport=polling&t=1bkgnx81 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:09] "[33mOPTIONS /api/convert-to-earth-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:09] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:10] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:52:10] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:08] "[33mGET /socket.io/?EIO=4&transport=polling&t=1fedygzc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:08] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:08] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:08] "[33mGET /api/get-alarms HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:08] "[33mGET /api/get-alarms HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:08] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:09] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:09] "[33mGET /socket.io/?EIO=4&transport=polling&t=1ffgl38s HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:09] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:10] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:10] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:11] "[33mGET /socket.io/?EIO=4&transport=polling&t=1fgoexcc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [05/Oct/2024 18:55:11] "[33mGET /api/current-alien-time HTTP/1.1[0m" 404 -
